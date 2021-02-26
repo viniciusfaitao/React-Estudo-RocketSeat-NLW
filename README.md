@@ -20,9 +20,17 @@ Estudo e aperfeiçoamento de habilidades com desenvolvimento em React e tecnolog
 • Contexts     :heavy_check_mark:<br/>
 • Hooks        :heavy_check_mark:<br/>
 
-## Uso da aplicação 
-```
-npm run dev
-# or
-yarn dev
-```
+## Acessível pelo link
+
+<a>https://moveitfellas.vercel.app/</a>
+
+
+## Instalação e uso da aplicação 
+
+Instalação
+
+### `npm install or yarn install`
+
+Iniciar aplicação
+
+### `npm run dev or yarn dev`
