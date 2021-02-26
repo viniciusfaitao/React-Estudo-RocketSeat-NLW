@@ -7,18 +7,22 @@ Neste projeto desenvolvemos o move.it, que com um temporizador tem como objetivo
 Estudo e aperfeiçoamento de habilidades com desenvolvimento em React e tecnologias<br/>
 
 ## Linguagem utilizada e Frameworks: <br/>
-• React        :heavy_check_mark: <br/>
-• NextJS       :heavy_check_mark:
+• React <br/>
+• NextJS
 
 ## Gerenciador de pacotes: <br/>
-• Yarn         :heavy_check_mark:
+• Yarn
+
+## Cloud platform: <br/>
+• Vercel
 
 ## Diferenciais: <br/>
-• Typescript   :heavy_check_mark:<br/>
-• SCSS         :heavy_check_mark:<br/>
-• Components   :heavy_check_mark:<br/>
-• Contexts     :heavy_check_mark:<br/>
-• Hooks        :heavy_check_mark:<br/>
+• Typescript
+• SCSS
+• Components
+• Contexts
+• Hooks
+• Cookies
 
 ## Acessível pelo link
 
