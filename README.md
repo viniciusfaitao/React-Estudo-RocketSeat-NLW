@@ -1,34 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Conteudo em desenvolvimento<br/> 
 
-## Getting Started
+# Estudo Rocketseat NLW<br/>
+Neste projeto desenvolvemos o move.it, que com um temporizador tem como objetivo incentivar o desenvolvedor a cada 25 minutos de trabalho ou estudo direto, realizar uma pausa de alguns minutos para se alongar, descansar ou espairecer. Como um ato de fazer algo divertido para os usuarios que utilizarem o move.it, foi idealizado uma estrutura divertida onde iremos nos sentir em um mini jogo, que dispõem de uma barra de experiencia e dara niveis sempre que o usuario fizer 25 minutos de trabalho ou estudo intenso e focado, onde o usuario poderá compartilhar com os amigos e competir para ver, quem tem o level mais alto.
 
-First, run the development server:
+## Motivação do projeto<br/>
+Estudo e aperfeiçoamento de habilidades com desenvolvimento em React e tecnologias<br/>
 
-```bash
+## Linguagem utilizada e Frameworks: <br/>
+• React        :heavy_check_mark: <br/>
+• NextJS       :heavy_check_mark:
+
+## Gerenciador de pacotes: <br/>
+• Yarn         :heavy_check_mark:
+
+## Diferenciais: <br/>
+• Typescript   :heavy_check_mark:<br/>
+• SCSS         :heavy_check_mark:<br/>
+• Components   :heavy_check_mark:<br/>
+• Contexts     :heavy_check_mark:<br/>
+• Hooks        :heavy_check_mark:<br/>
+
+## Uso da aplicação 
+```
 npm run dev
 # or
 yarn dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
