@@ -17,12 +17,12 @@ Estudo e aperfeiçoamento de habilidades com desenvolvimento em React e tecnolog
 • Vercel
 
 ## Diferenciais: <br/>
-• Typescript
-• SCSS
-• Components
-• Contexts
-• Hooks
-• Cookies
+• Typescript <br/>
+• SCSS <br/>
+• Components <br/>
+• Contexts <br/>
+• Hooks <br/>
+• Cookies <br/>
 
 ## Acessível pelo link
 
